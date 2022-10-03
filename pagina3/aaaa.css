@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.topo{
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+    height: 800px;
+    width: 100%;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    height: 100vmax;
+    
+
+}
+.forms{
+    display: flex;
+    flex-direction: row;
+    height: 100vmax;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 20px;
+    height: 200;
+}
+
+.form{
+    display: flex;
+    flex-direction: row;
+}
+
+.background{
+    background-color: gray;
+    height: 330px;
+    width: 100vmax;
+}
+.background1{
+    background-color:azure;
+    height: 170px;
+    width: 100vmax;
+}
+img{
+    height: 100px;
+    width: 200px;
+}
