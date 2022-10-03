@@ -1,0 +1,18 @@
+main{
+    display: flex;
+    flex-direction: row;
+    height: 100vmax;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+    min-width: 600px;
+    padding: 20px;
+}
+
+.background{
+    background-color: gray;
+    height: 100%;
+    width: 100%
+}
