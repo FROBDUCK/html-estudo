@@ -1,0 +1,47 @@
+body {
+    margin: 20px;
+}
+
+.dot{
+    margin-left: 5mm;
+    margin-right: 5mm;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.material-symbols-outlined{
+    font-size: 15px !important;
+    font-variation-settings: 
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+}
+.tabela{
+    width:100%;
+}
+
+li{
+    margin-bottom: 1em;
+}
+.direita{
+    text-align: right;
+}
+a:link{
+    color: green;                    
+}
+
+a:visited{
+    color:brown
+}
+
+a:hover{
+    color: aquamarine;
+}
+
+img:hover{
+    cursor: grab;
+}
