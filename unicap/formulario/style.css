@@ -1,0 +1,18 @@
+#formi{
+    position:relative;
+    left:37;
+    top:10em;
+    width: 320px;
+    height: 270px;
+}
+
+#formi #formulario{
+    position:absolute;
+    display: block;
+}
+fieldset
+{
+    background-color:aliceblue;
+    width: 300px;
+    height:250px
+}
